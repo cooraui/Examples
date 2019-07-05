@@ -1,0 +1,10 @@
+.navbar {
+    border-bottom: 0.5px solid gainsboro;
+    font-size: 15px;
+    background-color: rgb(250, 250, 250);
+}
+
+.active {
+    color: red !important;
+    border-bottom: 1.5px solid rgb(247, 3, 3);
+}

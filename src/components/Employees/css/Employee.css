@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+th {
+    min-width: 150px;
+}
+
+tr .code {
+    width: 2px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.custom {
+    display: inline-table;
+}
+
+tr a {
+    text-decoration: none;
+}
+
+.myBtn {
+    width: 100%;
+}
+
+.searchBar th {
+    font-weight: normal !important;
+}

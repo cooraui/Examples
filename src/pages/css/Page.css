@@ -1,0 +1,21 @@
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.styled {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.table-display {
+    display: none;
+}
+
+.mb-10 {
+    width: 200px;
+}
+
+.features div {
+    margin-bottom: 5px;
+}
